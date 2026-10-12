@@ -140,10 +140,10 @@ docker compose down
 
 ### Access the application
 
-- **Streamlit dashboard:** http://localhost:8501
-- **FastAPI API:** http://localhost:8000
-- **Interactive API documentation:** http://localhost:8000/docs
-- **Health check:** http://localhost:8000/health
+- **Streamlit dashboard:** https://customer-churn-dashboard-sxx9.onrender.com/
+- **FastAPI API:** https://customer-churn-dashboard-sxx9.onrender.com/
+- **Interactive API documentation:** https://customer-churn-dashboard-sxx9.onrender.com/docs
+- **Health check:** https://customer-churn-dashboard-sxx9.onrender.com/health
 
 The dashboard communicates with the API using the `API_URL` environment variable configured in Docker Compose.
 
