@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pandas
+scikit-learn==1.5.1
+joblib
+shap
+streamlit
+requests
+pytest
+httpx
